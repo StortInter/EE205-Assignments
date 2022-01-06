@@ -1,0 +1,6 @@
+*.rar
+*.pdf
+*.ppt*
+report.md
+.old
+/*/assets/
